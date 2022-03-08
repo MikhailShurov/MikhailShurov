@@ -1,5 +1,5 @@
 # Welcome :raising_hand_man:
-The best feeling -- everything works, no errors, no crutches
+The best feeling — everything works, no errors, no crutches
 
 Strengths: Python
 
@@ -16,4 +16,8 @@ My name is Mikhail, I'm 17 years old. I have been programming for about 3 years 
 - Selenium (made instagram bots)
 - Heroku (deployed Telegram bot)
 
-I really like to solve problems that appear during programming. That's really nice when projects works without errors.
+I really like to solve problems that appear during programming. That's really nice feelings when projects works without errors.
+
+# GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailShurov&theme=outrun&show_icons=true)
+
