@@ -20,4 +20,3 @@ I really like to solve problems that appear during programming. That's really ni
 
 # GitHub Stats :smirk:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailShurov&theme=outrun&show_icons=true)
-
