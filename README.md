@@ -15,8 +15,9 @@ My name is Mikhail, I'm 17 years old. I have been programming for about 3 years 
 - Computer vision with python OpenCv
 - Blockchain technologies (made a simple MVP blockchain on python and tested id with postman)
 - Working with API like TMDB, VTope or Telegram API
-- Selenium (made instagram bots)
 - Heroku (deployed Telegram bot)
+
+I try to find my way in the industry, so I use very different libraries like PyQT5, OpenCV, Selenium, Kivy, Requests, framework like Flask. Of course, I understand, that I know and use a small part of that libraries, but I continuosly improve myself.
 
 I really like to solve problems that appear during programming. That's really nice feelings when projects works without errors.
 
