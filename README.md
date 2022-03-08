@@ -11,7 +11,7 @@ ____
 My name is Mikhail, I'm 17 years old. I have been programming for about 3 years and trying myself in different technologies such as:
 - Game development with Unity
 - Computer vision with python OpenCv
-- Blockchain technologies (made a simple MVP blockchain on python)
+- Blockchain technologies (made a simple MVP blockchain on python and tested id with postman)
 - Working with API like TMDB, VTope or Telegram API
 - Selenium (made instagram bots)
 - Heroku (deployed Telegram bot)
