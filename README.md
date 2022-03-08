@@ -18,6 +18,6 @@ My name is Mikhail, I'm 17 years old. I have been programming for about 3 years 
 
 I really like to solve problems that appear during programming. That's really nice feelings when projects works without errors.
 
-# GitHub Stats
+# GitHub Stats :smirk:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailShurov&theme=outrun&show_icons=true)
 
