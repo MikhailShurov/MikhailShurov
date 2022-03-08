@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/56272277/157290984-30440e94-5fdf-47b7-bb71-fef224bfeea7.png)
+![download (2)](https://user-images.githubusercontent.com/56272277/157306939-a3aad5be-b139-4cea-aa35-c65581ef597c.png)
 
 # Welcome :raising_hand_man:
 It's possible to look at three things endlessly: how the fire burns, how the water flows and how your project compiles without any errors
@@ -22,6 +22,5 @@ I try to find my way in the industry, so I use very different libraries like PyQ
 I really like to solve problems that appear during programming. That's really nice feelings when projects works without errors.
 
 # GitHub Stats :smirk:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailShurov&theme=outrun&show_icons=true)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailShurov&theme=radical&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikhailShurov&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
