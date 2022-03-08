@@ -1,5 +1,5 @@
 # Welcome :raising_hand_man:
-The best feeling — everything works, no errors, no crutches
+It's possible to look at three things endlessly: how the fire burns, how the water flows and how your project compiles without any errors
 
 Strengths: Python
 
