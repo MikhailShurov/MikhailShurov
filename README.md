@@ -10,7 +10,7 @@ Weak sides: C++ (can create a simple console application)
 ____
 
 # About me  :upside_down_face:
-My name is Mikhail, I'm 17 years old. I have been programming for about 3 years and trying myself in different technologies such as:
+My name is Mikhail, I'm 19 years old. I have been programming for about 3 years and trying myself in different technologies such as:
 - Game development with Unity
 - Computer vision with python OpenCv
 - Blockchain technologies (made a simple MVP blockchain on python and tested id with postman)
