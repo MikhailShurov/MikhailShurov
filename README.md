@@ -3,9 +3,7 @@
 # Welcome :raising_hand_man:
 It's possible to look at three things endlessly: how the fire burns, how the water flows and how your project compiles without any errors
 
-Strengths: Python
-
-Weak sides: C++ (can create a simple console application)
+Strengths: Python, Java, C++
 
 ____
 
@@ -16,6 +14,8 @@ My name is Mikhail, I'm 19 years old. I have been programming for about 3 years 
 - Blockchain technologies (made a simple MVP blockchain on python and tested id with postman)
 - Working with API like TMDB, VTope or Telegram API
 - Heroku (deployed Telegram bot)
+- QT
+- Javafx
 
 I try to find my way in the industry, so I use very different libraries like PyQT5, OpenCV, Selenium, Kivy, Requests, framework like Flask. Of course, I understand, that I know and use a small part of that libraries, but I continuosly improve myself.
 
